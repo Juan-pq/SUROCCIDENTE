@@ -73,3 +73,16 @@
   .p{
     text-align: justify;
   }
+
+  /*------------------------------------------------*/
+/*-------------------archivo CAUCA------------*/
+/*------------------------------------------------*/
+.titulocauca{
+    text-align: center;
+}
+
+.imagencauca {
+    width: 700px;
+    height: auto;
+
+  }
